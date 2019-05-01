@@ -1,0 +1,63 @@
+table {
+    width: 200px;
+    height: 200px;  
+}
+td:hover{
+    border: 1px solid silver;
+}
+td#row1-col1:hover{
+    background-color:greenyellow;
+}
+td#row1-col2:hover{
+    background-color:green;
+}
+td#row1-col3:hover{
+    background-color:teal;
+}
+td#row2-col1:hover{
+    background-color:red;
+}
+td#row2-col2:hover{
+    background-color:black;
+}
+td#row2-col3:hover{
+    background-color: steelblue;
+}
+td#row3-col1:hover{
+    background-color: blueviolet;
+}
+td#row3-col2:hover{
+    background-color: lime;
+}
+td#row3-col3:hover{
+    background-color:blue;
+}
+#row2-col2{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px 20px 20px 20px;
+    
+}
+#row1-col2{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
+#row2-col1{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
+#row2-col3{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
+#row3-col2{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
+

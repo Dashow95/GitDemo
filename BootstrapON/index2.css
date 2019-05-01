@@ -1,0 +1,42 @@
+body{
+    background: url(https://images.unsplash.com/photo-1489769002049-ccd828976a6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1514&q=80)
+}
+}
+#active{
+    background-color: black;
+}
+li.lis:hover{
+    color: #ffffff;
+}
+#main{
+    position: inherit;
+    font-family: "Permanent Marker", cursive;
+    margin-top: 161px;
+    margin-left: 355px;
+    font-weight: 500;
+    font-style: normal;
+    color:#080808;
+    font-Size:8em;
+    Line-Height:123px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #DDE4E4, 1px 1px 1px #DDE4E4, 1px 1px 1px #DDE4E4;
+}
+#submain{
+    font-family: "Faster One", cursive;
+    font-Style:normal; 
+    font-weight:700;
+    font-size: 25px;
+    Line-Height:28px;
+    color:#ed871f;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 405px;
+    text-shadow: 1px 1px 2px #58727B, 1px 1px 2px rgb(21, 32, 1), 1px 1px 2px rgb(21, 32, 1);
+
+}
+#touch{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 646px;
+    box-shadow: 1px 3px 3px 1px solid black;
+}
